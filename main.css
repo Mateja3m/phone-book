@@ -1,0 +1,29 @@
+* {
+    font-family: Tahoma;
+}
+
+#add-account-view {
+    display: none;
+}
+
+#edit-account-view {
+    display: none;
+}
+
+#brand {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+li a {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#footer {
+    text-align: center;
+    font-weight: bold;
+    position: absolute;
+    bottom: 20px;
+    width: 100%
+}
